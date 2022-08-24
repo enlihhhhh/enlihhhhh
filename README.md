@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm a first year Data Science and Artificial Intelligence student at Nanyang Technological University
+I'm currently a second year Data Science and Artificial Intelligence student at Nanyang Technological University.
+
+
 <!--
 **enlihhhhh/enlihhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
