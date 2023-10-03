@@ -1,10 +1,17 @@
 ### Hi there 👋🏻
-I'm currently a Third Year Data Science and Artificial Intelligence student at Nanyang Technological University.
-> I have a strong interest in the domain of Data Science and Deep Learning
-> The following is my programming language experiences:
+Currently a Third Year Data Science and Artificial Intelligence student at Nanyang Technological University.
+* I have a strong interest in the domain of Data Science and Deep Learning
+* The following are my programming language experiences:
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 📫 How to reach me: 
-> [LinkedIn]: https://www.linkedin.com/in/enlihhhhh/
+* LinkedIn: https://www.linkedin.com/in/enlihhhhh
+* Email: nlyeel@gmail.com
 <!--
 **enlihhhhh/enlihhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
