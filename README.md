@@ -4,7 +4,7 @@ Currently a Third Year Data Science and Artificial Intelligence student at Nanya
 * The following are my programming language experiences
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,javascript,css,html,r,react,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,c,c++,java,javascript,css,html,r,react,mysql,figma&theme=light" />
   </a>
 </p>
 
