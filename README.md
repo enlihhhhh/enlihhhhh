@@ -1,7 +1,10 @@
-### Hi there 👋
-I'm currently a second year Data Science and Artificial Intelligence student at Nanyang Technological University.
+### Hi there 👋🏻
+I'm currently a Third Year Data Science and Artificial Intelligence student at Nanyang Technological University.
+> I have a strong interest in the domain of Data Science and Deep Learning
+> The following is my programming language experiences:
 
-
+📫 How to reach me: 
+> [LinkedIn]: https://www.linkedin.com/in/enlihhhhh/
 <!--
 **enlihhhhh/enlihhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
