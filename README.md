@@ -1,11 +1,10 @@
 ### Hi there 👋🏻
 Currently a Third Year Data Science and Artificial Intelligence student at Nanyang Technological University.
 * I have a strong interest in the domain of Data Science and Deep Learning
-* The following are my programming language experiences:
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,wasm)](https://skillicons.dev)
+* The following are my programming language experiences
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,javascript,css,html,r,react,mysql" />
   </a>
 </p>
 
