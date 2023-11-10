@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 Currently a Third Year Data Science and Artificial Intelligence student at Nanyang Technological University.
-* I have a strong interest in the domain of Data Science and Deep Learning
+* I have a strong interest in the domain of Data Science and Machine Learning
 * The following are my programming language experiences
 <p align="center">
   <a href="https://skillicons.dev">
