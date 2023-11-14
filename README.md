@@ -11,9 +11,6 @@ Currently a Third Year Data Science and Artificial Intelligence student at Nanya
   </a>
 </p>
 
-📫 How to reach me: 
-* LinkedIn: https://www.linkedin.com/in/enlihhhhh
-* Email: nlyeel@gmail.com
 <!--
 **enlihhhhh/enlihhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
