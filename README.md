@@ -1,4 +1,6 @@
-### Hi there 👋🏻
+<h1 align='center'> Hello 👋! I'm En Lih </h1>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagr.am/enlihhhhh) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enlihhhhh/) 
 Currently a Third Year Data Science and Artificial Intelligence student at Nanyang Technological University.
 * I have a strong interest in the domain of Data Science and Machine Learning
 * The following are my programming language experiences
