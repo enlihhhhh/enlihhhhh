@@ -2,6 +2,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagr.am/enlihhhhh) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enlihhhhh/) 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nqzxqpvdrjkyzn6r45ay7ri&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21nqzxqpvdrjkyzn6r45ay7ri&redirect=true)
+
 Currently a Third Year Data Science and Artificial Intelligence student at Nanyang Technological University.
 * I have a strong interest in the domain of Data Science and Machine Learning
 * The following are my programming language experiences
