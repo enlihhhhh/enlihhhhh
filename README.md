@@ -4,7 +4,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nqzxqpvdrjkyzn6r45ay7ri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21nqzxqpvdrjkyzn6r45ay7ri&redirect=true)
 
-Currently a Third Year Data Science and Artificial Intelligence student at Nanyang Technological University.
+Third Year Data Science and Artificial Intelligence student at Nanyang Technological University and Data Science and Automation Intern at Advanced Micro Devices Inc.
 * I have a strong interest in the domain of Data Science and Machine Learning
 * The following are my programming language experiences
 <p align="center">
