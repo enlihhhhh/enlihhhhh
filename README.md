@@ -12,7 +12,7 @@
 - 📫 How to reach me **nlyeel@gmail.com**
 
 ### Spotify Playing 🎧
-[![Spotify](https://enlihhhhh.vercel.app/api/spotify)](https://open.spotify.com/user/21nqzxqpvdrjkyzn6r45ay7ri)
+[![Spotify](https://spotify-github-readme-hweyanenr-enlihhhhhs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21nqzxqpvdrjkyzn6r45ay7ri)
   
 
 <h3 align="left">Connect with me:</h3>
