@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enlihhhhh" alt="enlihhhh" /></a> </p>
 
-- 🔭 I’m currently working on [Deep Learning and Machine Learning Projects]
+- 🔭 I’m currently working on **Deep Learning and Machine Learning Projects**
 
 - 🌱 I’m currently learning **more about Transformers and Autoencoders**
 
