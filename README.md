@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm En Lih</h1>
-<h3 align="center">Currently a Third Year Data Science and Artificial Intelligence Student in Nanyang Technological University! 👨🏽‍🎓</h3>
+<h3 align="center">Final Year Data Science and Artificial Intelligence Student in Nanyang Technological University! 👨🏽‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enlihhhh&label=Profile%20views&color=0e75b6&style=flat" alt="enlihhhh" /> </p>
 
@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning **more about Transformers and Autoencoders**
 
-- 📫 How to reach me **nlyeel@gmail.com**
+- 📫 Reach me @ **nlyeel@gmail.com** / **LYEE0001@e.ntu.edu.sg**
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-github-readme-git-main-enlihhhhhs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21nqzxqpvdrjkyzn6r45ay7ri)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21nqzxqpvdrjkyzn6r45ay7ri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21nqzxqpvdrjkyzn6r45ay7ri&redirect=true)
   
 
 <h3 align="left">Connect with me:</h3>
