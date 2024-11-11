@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning and Machine Learning Projects**
 
-- 🌱 I’m currently learning ... **
+- 🌱 I’m currently learning ... 
 
 - 📫 Reach me @ **nlyeel@gmail.com** / **LYEE0001@e.ntu.edu.sg**
 
