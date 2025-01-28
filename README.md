@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning and Machine Learning Projects**
 
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning more about Large Language Models, RAG pipeline, and optimisation techniques for LLMs. 
 
 - 📫 Reach me @ **nlyeel@gmail.com** / **LYEE0001@e.ntu.edu.sg**
 
