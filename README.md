@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enlihhhhh&show_icons=true&locale=en" alt="enlihhhhh" /></p>
 
-<h3 align="center">🐍 Watch the Snake Eat My Contributions:</h3>
-<p align="center">
+<h3 align="left">🐍 Watch the Snake Eat My Contributions:</h3>
+<p align="left">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
