@@ -26,3 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enlihhhhh&show_icons=true&locale=en&layout=compact" alt="enlihhhhh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enlihhhhh&show_icons=true&locale=en" alt="enlihhhhh" /></p>
+
+<h3 align="center">🐍 Watch the Snake Eat My Contributions:</h3>
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
