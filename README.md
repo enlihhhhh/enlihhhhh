@@ -10,7 +10,7 @@
 - 📫 Reach me @ **nlyeel@gmail.com** / **LYEE0001@e.ntu.edu.sg**
 
 ---
-<h3 align="center">🎵 Now Playing:</h3>
+<h3 align="center">🎵 Spotify Now Playing:</h3>
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21nqzxqpvdrjkyzn6r45ay7ri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile" />
